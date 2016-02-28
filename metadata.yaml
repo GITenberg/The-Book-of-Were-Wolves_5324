@@ -1,0 +1,33 @@
+_repo: The-Book-of-Were-Wolves_5324
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Gould, Sabine Baring
+    - Baring-Gould, Sabine
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Werewolves'
+tableOfContents: 'Introductory -- Lycanthropy among the ancients -- The were-wolf
+  in the North -- The origin of the Scandinavian were-wolf -- The were-wolf in the
+  Middle Ages -- A chapter of horrors -- Jean Grenier -- Folk-lore relating to were-wolves
+  -- Natural causes of lycanthropy -- Mythological origin of the were-wolf myth --
+  The Maréchal de Retz: I. The investigation of charges -- The Maréchal de Retz: II.
+  The trial -- The Maréchal de Retz: III. The sentence and execution -- A Galician
+  were-wolf -- Anomalous case: The human hyena -- A sermon on were-wolves.'
+title: The Book of Were-Wolves
+url: http://www.gutenberg.org/ebooks/5324
