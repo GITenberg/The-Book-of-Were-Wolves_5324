@@ -1,5 +1,8 @@
 _repo: The-Book-of-Were-Wolves_5324
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5324#The-Book-of-Were-Wolves
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
