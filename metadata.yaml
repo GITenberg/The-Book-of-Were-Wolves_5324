@@ -1,5 +1,5 @@
 _repo: The-Book-of-Were-Wolves_5324
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'GR'
 - !lcsh 'Werewolves'
+- GITenberg
 tableOfContents: 'Introductory -- Lycanthropy among the ancients -- The were-wolf
   in the North -- The origin of the Scandinavian were-wolf -- The were-wolf in the
   Middle Ages -- A chapter of horrors -- Jean Grenier -- Folk-lore relating to were-wolves
